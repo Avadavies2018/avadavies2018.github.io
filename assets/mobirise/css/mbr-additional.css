@@ -1369,7 +1369,7 @@ body {
   background-color: #f9f9f9;
 }
 .cid-qGJA7g6VqK .mbr-text {
-  color: #232323;
+  color: #c1c1c1;
 }
 .cid-qGJA7g6VqK h4 {
   text-align: center;
@@ -1383,10 +1383,10 @@ body {
 }
 .cid-qGJA7g6VqK .card-title,
 .cid-qGJA7g6VqK .card-img DIV {
-  color: #232323;
+  color: #c1c1c1;
 }
 .cid-qGJA7g6VqK .mbr-text B {
-  color: #232323;
+  color: #c1c1c1;
 }
 .cid-qGJA7kS06h {
   padding-top: 90px;
@@ -1405,6 +1405,9 @@ body {
 .cid-qGJA7kS06h .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-qGJA7kS06h .mbr-text B {
+  color: #c1c1c1;
 }
 .cid-qGJBiIk3mE {
   padding-top: 90px;
